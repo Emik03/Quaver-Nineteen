@@ -2950,6 +2950,11 @@ HitObjects:
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 1
+- StartTime: 67210
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 4
 - StartTime: 67310
   Lane: 3
   KeySounds: []
